@@ -1,0 +1,17 @@
+body
+#imagens {width: 60%;}
+.principal {background: #CCCCCC;padding: 20px;}
+
+.centralizado {text-align: center;}
+p{text-align: center;}
+    #alinhadoEsquerda {
+        font-size: 22px;text-align: left;
+    } 
+strong{background-color: black; -webkit-text-fill-color: #CCCCCC;}
+h2{font-style: italic;}
+ul {display: inline-block;
+    vertical-align:top;}
+.criterios{font-style: italic; color: blue;}
+.criterios2{color: chartreuse;}
+.unidades {background-color: #EEEEFF;}
+.imagensCentrais {width: 30%;}
